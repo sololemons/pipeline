@@ -32,5 +32,5 @@ jobs:
           docker pull solomondocker10277/authwallet-app:latest
           docker pull solomondocker10277/placebetservice-app:latest
           docker pull solomondocker10277/adminbetting-app:latest
-          docker pull solomondocker10277/mysql-container:latest
+          docker pull solomondocker10277/mysql:latest
           
